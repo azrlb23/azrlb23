@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sebagai seorang mahasiswa Ilmu Komputer, saya tidak hanya belajar—saya membangun. Saya telah meluncurkan beberapa proyek, termasuk website perusahaan, sambil menguasai ekosistem JavaScript dengan React dan Next.js. Sekarang, saya sedang meningkatkan kemampuan engineering saya dengan menambahkan Java ke dalam daftar keahlian, siap untuk membangun aplikasi full-stack yang lebih kompleks
+Sebagai seorang mahasiswa Ilmu Komputer, saya tidak hanya belajar, saya membangun. Saya telah meluncurkan beberapa proyek, termasuk website perusahaan, sambil menguasai ekosistem JavaScript dengan React dan Next.js. Sekarang, saya sedang meningkatkan kemampuan engineering saya dengan menambahkan Java ke dalam daftar keahlian, siap untuk membangun aplikasi full-stack yang lebih kompleks
 
 
 ## 🌐 Socials:
